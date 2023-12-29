@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+alias/scratch/PI/ruizhang/shared-codes"
+		},
+		{
+			"uri": "vscode-remote://ssh-remote+alias/scratch/PI/ruizhang/weiqiang/vmas_research/HetGPPO"
+		}
+	],
+	"remoteAuthority": "ssh-remote+alias",
+	"settings": {}
+}
